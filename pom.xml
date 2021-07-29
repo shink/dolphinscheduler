@@ -125,12 +125,6 @@
         <protostuff.version>1.7.2</protostuff.version>
         <reflections.version>0.9.12</reflections.version>
         <byte-buddy.version>1.9.16</byte-buddy.version>
-
-        <properties>
-            <sonar.projectKey>shink_dolphinscheduler</sonar.projectKey>
-            <sonar.organization>shink</sonar.organization>
-            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        </properties>
     </properties>
 
     <dependencyManagement>
